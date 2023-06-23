@@ -5,4 +5,4 @@
 1.แล็บ Git
 2.lab HTML
 
-<img src="images/022.jpg"/>
+<img src="images/022.png"/>
